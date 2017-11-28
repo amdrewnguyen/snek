@@ -20,6 +20,7 @@ body {
   flex-wrap: wrap;
   padding: 0;
   box-sizing: content-box;
+  background-color: white;
 }
 
 li {
